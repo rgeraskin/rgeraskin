@@ -20,10 +20,10 @@
 
 ## ✏️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Development Environment with Mise: Comprehensive Guide 💫](https://rgeraskin.hashnode.dev/dev-env-with-mise)
 - [Mastering Terraform Debugging: Tips and Techniques 🔧](https://rgeraskin.hashnode.dev/terraform-expressions-debugging)
 - [Terramate meets Atlantis 🚀](https://rgeraskin.hashnode.dev/terramate-atlantis)
 - [Terramate ❤️ Zsh](https://rgeraskin.hashnode.dev/terramate-zsh)
-- [Get a specific apiVersion manifest from k8s](https://rgeraskin.hashnode.dev/get-a-specific-apiversion-manifest-from-k8s)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👀 Check out other posts at
