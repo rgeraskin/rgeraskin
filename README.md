@@ -61,6 +61,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
 </div>
 
+### 🔀 Some OpenSource contributions
+
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator/): Cluster API Operator, a subproject of sig-cluster-lifecycle [#688](https://github.com/kubernetes-sigs/cluster-api-operator/pull/688)
+- [fluent/fluentd](https://github.com/fluent/fluentd/): Unified Logging Layer (project under CNCF) [#2973](https://github.com/fluent/fluentd/pull/2973)
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst/): Automatic tiling window manager for macOS à la xmonad [#1685](https://github.com/ianyh/Amethyst/pull/1685)
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint/): A linter for YAML files [#487](https://github.com/adrienverge/yamllint/pull/487) [#490](https://github.com/adrienverge/yamllint/pull/490)
+- [jdx/mise](https://github.com/jdx/mise/): Dev tools, env vars, task runner [#2790](https://github.com/jdx/mise/pull/2790)
+- [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur): GitHub Actions to publish AUR package [#31](https://github.com/KSXGitHub/github-actions-deploy-aur/pull/31)
+
 ## ✉️ Reach me
 
 
