@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">Kubernetes evangelist. DevOps-practices preacher. Python adept.</div>
+<div align="center">Kubernetes evangelist. DevOps-practices preacher. Go adept.</div>
 
 ## ✏️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -38,10 +38,10 @@
 
 ## 💬 About Me
 
-- 👨‍💻 working as a DevOps/SRE Engineer
+- 👨‍💻 working as a DevOps/SRE/Platform Engineer
 - 🎓 certified Kubernetes Administrator
 - ☁️ strong expertise with AWS, CI/CD, IaC, GitOps
-- 🐍 advanced Linux and Python/Bash scripting skills
+- 🐍 advanced Linux and Go/Python/Bash scripting skills
 - 🚀 exploring new tech and blogging about it
 - 🌍 love traveling, riding my motorcycle, and playing video games
 
@@ -61,6 +61,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
 </div>
+
+### 🐈 Pet projects
+- [argocdf](https://github.com/rgeraskin/argocdf): Tool to diff ArgoCD applications (Go)
+- [a10-bgp-neighbor-manager](https://github.com/rgeraskin/a10-bgp-neighbor-manager): Kubernetes controller to manage BGP neighbors on an A10 Thunder load balancer (Go)
+- [dogoncall](https://github.com/rgeraskin/dogoncall): Retrieve on-call schedules from Datadog and send notifications to Slack (Go)
+- [remove-empty-ns-operator](https://github.com/rgeraskin/remove-empty-ns-operator): Kubernetes operator that deletes namespaces without resources (Python)
+- [vscode-mise](https://github.com/rgeraskin/vscode-mise): VSCode extension to run mise (JavaScript)
+- [dump psql roles grants](https://github.com/rgeraskin/dump_psql_roles_grants): Helper tool to dump Postgres Roles and Grants (Python)
+- [FSSH](https://github.com/rgeraskin/fssh): Parses ansible inventory and produces connection-ready ssh command on-the-fly (Python)
 
 ### 🔀 Some OpenSource contributions
 
