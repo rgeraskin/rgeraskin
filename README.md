@@ -64,7 +64,7 @@
 
 ### 🔀 Some OpenSource contributions
 
-- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator/): Cluster API Operator, a subproject of sig-cluster-lifecycle [#688](https://github.com/kubernetes-sigs/cluster-api-operator/pull/688)
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator/): Cluster API Operator, a subproject of sig-cluster-lifecycle [#688](https://github.com/kubernetes-sigs/cluster-api-operator/pull/688) [#692](https://github.com/kubernetes-sigs/cluster-api-operator/pull/692) [#734](https://github.com/kubernetes-sigs/cluster-api-operator/pull/734)
 - [fluent/fluentd](https://github.com/fluent/fluentd/): Unified Logging Layer (project under CNCF) [#2973](https://github.com/fluent/fluentd/pull/2973)
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst/): Automatic tiling window manager for macOS à la xmonad [#1685](https://github.com/ianyh/Amethyst/pull/1685)
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint/): A linter for YAML files [#487](https://github.com/adrienverge/yamllint/pull/487) [#490](https://github.com/adrienverge/yamllint/pull/490)
