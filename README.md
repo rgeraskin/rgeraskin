@@ -26,12 +26,12 @@
 - [Terramate ❤️ Zsh](https://rgeraskin.hashnode.dev/terramate-zsh)
 <!-- BLOG-POST-LIST:END -->
 
-### 👀 Check out other posts at
+👀 Check out other posts at https://blog.rgeraskin.dev
+
+### 🔔 Be notified about new posts with
 - [![hashnode ico](https://cdn.hashnode.com/res/hashnode/image/upload/v1611242187756/TRTNYp32O.png) hashnode](https://rgeraskin.hashnode.dev)
 - [![dev.to](https://media.dev.to/dynamic/image/width=16,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png) dev.to](https://dev.to/rgeraskin)
 - <a href="https://rgeraskin.medium.com"><img src="https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19" title="medium" alt="medium" width="16" height="16"/> medium</a>
-
-### 🔔 Be notified about new posts with
 - ![RSS](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/16px-Feed-icon.svg.png) [RSS](https://rgeraskin.hashnode.dev/rss.xml)
 - ![Telegram](https://telegram.org/img/favicon-16x16.png) [Telegram](https://t.me/kuberroman)
 - ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png) [Mastodon](https://mastodon.social/@rgeraskin)
@@ -63,10 +63,10 @@
 </div>
 
 ### 🐈 Pet projects
-- [argocdf](https://github.com/rgeraskin/argocdf): Tool to diff ArgoCD applications (Go)
+- [remove-empty-ns-operator](https://github.com/rgeraskin/remove-empty-ns-operator): Kubernetes operator that deletes namespaces without resources (Python)
 - [a10-bgp-neighbor-manager](https://github.com/rgeraskin/a10-bgp-neighbor-manager): Kubernetes controller to manage BGP neighbors on an A10 Thunder load balancer (Go)
 - [dogoncall](https://github.com/rgeraskin/dogoncall): Retrieve on-call schedules from Datadog and send notifications to Slack (Go)
-- [remove-empty-ns-operator](https://github.com/rgeraskin/remove-empty-ns-operator): Kubernetes operator that deletes namespaces without resources (Python)
+- [argocdf](https://github.com/rgeraskin/argocdf): Tool to diff ArgoCD applications (Go)
 - [vscode-mise](https://github.com/rgeraskin/vscode-mise): VSCode extension to run mise (JavaScript)
 - [dump psql roles grants](https://github.com/rgeraskin/dump_psql_roles_grants): Helper tool to dump Postgres Roles and Grants (Python)
 - [FSSH](https://github.com/rgeraskin/fssh): Parses ansible inventory and produces connection-ready ssh command on-the-fly (Python)
