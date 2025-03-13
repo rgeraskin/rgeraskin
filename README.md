@@ -26,7 +26,7 @@
 - [Terramate ❤️ Zsh](https://rgeraskin.hashnode.dev/terramate-zsh)
 <!-- BLOG-POST-LIST:END -->
 
-👀 Check out other posts at https://blog.rgeraskin.dev
+Check out other posts at https://blog.rgeraskin.dev
 
 ### 🔔 Be notified about new posts with
 - [![hashnode ico](https://cdn.hashnode.com/res/hashnode/image/upload/v1611242187756/TRTNYp32O.png) hashnode](https://rgeraskin.hashnode.dev)
@@ -38,12 +38,12 @@
 
 ## 💬 About Me
 
-- 👨‍💻 working as a DevOps/SRE/Platform Engineer
-- 🎓 certified Kubernetes Administrator
-- ☁️ strong expertise with AWS, CI/CD, IaC, GitOps
-- 🐍 advanced Linux and Go/Python/Bash scripting skills
-- 🚀 exploring new tech and blogging about it
-- 🌍 love traveling, riding my motorcycle, and playing video games
+- working as a DevOps/SRE/Platform Engineer
+- certified Kubernetes Administrator
+- strong expertise with AWS, CI/CD, IaC, GitOps
+- advanced Linux and Go/Python/Bash scripting skills
+- exploring new tech and blogging about it
+- love traveling, riding my motorcycle, and playing video games
 
 ### 🛠 Tools
 <div>
