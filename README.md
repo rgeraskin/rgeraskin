@@ -20,6 +20,7 @@
 
 ## ✏️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI with Kubernetes: Operations for Developers: Make k8s Beginner-Friendly with Natural Language](https://blog.rgeraskin.dev/ai-with-kubernetes)
 - [Automating Development Environment with Mise: Comprehensive Guide 💫](https://rgeraskin.hashnode.dev/dev-env-with-mise)
 - [Mastering Terraform Debugging: Tips and Techniques 🔧](https://rgeraskin.hashnode.dev/terraform-expressions-debugging)
 - [Terramate meets Atlantis 🚀](https://rgeraskin.hashnode.dev/terramate-atlantis)
