@@ -64,6 +64,7 @@ Check out other posts at https://blog.rgeraskin.dev
 </div>
 
 ### 🐈 Pet projects
+- [godiffyaml](https://github.com/rgeraskin/godiffyaml): Human-readable diffs for yamls with multiple documents (Go)
 - [psql-roles-operator](https://github.com/rgeraskin/psql-roles-operator): Kubernetes Operator that manages PostgreSQL roles and users (Go)
 - [remove-empty-ns-operator](https://github.com/rgeraskin/remove-empty-ns-operator): Kubernetes Operator that deletes namespaces without resources (Python)
 - [a10-bgp-neighbor-manager](https://github.com/rgeraskin/a10-bgp-neighbor-manager): Kubernetes Custom Controller to manage BGP neighbors on an A10 Thunder load balancer (Go)
@@ -83,7 +84,6 @@ Check out other posts at https://blog.rgeraskin.dev
 - [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur): GitHub Actions to publish AUR package [#31](https://github.com/KSXGitHub/github-actions-deploy-aur/pull/31)
 
 ## ✉️ Reach me
-
 
 - [![Linkedin Badge](https://img.shields.io/badge/-rgeraskin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rgeraskin/)
 - [![Telegram Badge](https://img.shields.io/badge/-rgeraskin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rgeraskin)
