@@ -32,7 +32,7 @@ Check out other posts at https://blog.rgeraskin.dev
 
 ### 🔔 Be notified about new posts with
 - [![hashnode ico](https://cdn.hashnode.com/res/hashnode/image/upload/v1611242187756/TRTNYp32O.png) hashnode](https://rgeraskin.hashnode.dev)
-- [![dev.to](https://media.dev.to/dynamic/image/width=16,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png) dev.to](https://dev.to/rgeraskin)
+- [![dev.to](https://media2.dev.to/dynamic/image/width=16,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png) dev.to](https://dev.to/rgeraskin)
 - <a href="https://rgeraskin.medium.com"><img src="https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19" title="medium" alt="medium" width="16" height="16"/> medium</a>
 - ![RSS](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/16px-Feed-icon.svg.png) [RSS](https://rgeraskin.hashnode.dev/rss.xml)
 - ![Telegram](https://telegram.org/img/favicon-16x16.png) [Telegram](https://t.me/kuberroman)
