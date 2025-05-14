@@ -66,11 +66,12 @@ Check out other posts at https://blog.rgeraskin.dev
 
 ### 🐈 Pet projects
 - [godiffyaml](https://github.com/rgeraskin/godiffyaml): Human-readable diffs for yamls with multiple documents (Go)
-- [psql-roles-operator](https://github.com/rgeraskin/psql-roles-operator): Kubernetes Operator that manages PostgreSQL roles and users (Go)
+- [psql-roles-operator](https://github.com/rgeraskin/psql-roles-operator): Kubernetes Operator that manages PostgreSQL roles and users *WIP* (Go)
 - [remove-empty-ns-operator](https://github.com/rgeraskin/remove-empty-ns-operator): Kubernetes Operator that deletes namespaces without resources (Python)
 - [a10-bgp-neighbor-manager](https://github.com/rgeraskin/a10-bgp-neighbor-manager): Kubernetes Custom Controller to manage BGP neighbors on an A10 Thunder load balancer (Go)
+- [nsrerolebindings-operator](https://github.com/rgeraskin/nsrerolebindings-operator): Kubernetes operator to create Role Bindings across namespaces by regexp (Python)
 - [dogoncall](https://github.com/rgeraskin/dogoncall): Retrieve on-call schedules from Datadog and send notifications to Slack (Go)
-- [argocdf](https://github.com/rgeraskin/argocdf): Tool to diff ArgoCD applications (Go)
+- [argocdf](https://github.com/rgeraskin/argocdf): Tool to diff ArgoCD applications *WIP* (Go)
 - [vscode-mise](https://github.com/rgeraskin/vscode-mise): VSCode extension to run mise (JavaScript)
 - [dump psql roles grants](https://github.com/rgeraskin/dump_psql_roles_grants): Helper tool to dump Postgres Roles and Grants (Python)
 - [FSSH](https://github.com/rgeraskin/fssh): Parses ansible inventory and produces connection-ready ssh command on-the-fly (Python)
