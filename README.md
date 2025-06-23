@@ -65,6 +65,7 @@ Check out other posts at https://blog.rgeraskin.dev
 </div>
 
 ### 🐈 Pet projects
+- [kubedepot](http://github.com/rgeraskin/kubedepot): A simple web service for distributing Kubernetes configuration files (Go)
 - [godiffyaml](https://github.com/rgeraskin/godiffyaml): Human-readable diffs for yamls with multiple documents (Go)
 - [psql-roles-operator](https://github.com/rgeraskin/psql-roles-operator): Kubernetes Operator that manages PostgreSQL roles and users *WIP* (Go)
 - [remove-empty-ns-operator](https://github.com/rgeraskin/remove-empty-ns-operator): Kubernetes Operator that deletes namespaces without resources (Python)
