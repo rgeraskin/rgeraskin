@@ -65,15 +65,17 @@ Check out other posts at https://blog.rgeraskin.dev
 </div>
 
 ### 🐈 Pet projects
-- [kubedepot](http://github.com/rgeraskin/kubedepot): A simple web service for distributing Kubernetes configuration files (Go)
 - [godiffyaml](https://github.com/rgeraskin/godiffyaml): Human-readable diffs for yamls with multiple documents (Go)
+- [kctouch](https://github.com/rgeraskin/kctouch): A command-line tool for managing macOS Keychain items with TouchID authentication (Go)
+- [awsssologin](https://github.com/rgeraskin/awsssologin): AWS SSO Login Headless Automation (Go)
+- [kubedepot](http://github.com/rgeraskin/kubedepot): A simple web service for distributing Kubernetes configuration files (Go)
+- [dogoncall](https://github.com/rgeraskin/dogoncall): Retrieve on-call schedules from Datadog and send notifications to Slack (Go)
+- [argocdf](https://github.com/rgeraskin/argocdf): Tool to diff ArgoCD applications *WIP* (Go)
 - [psql-roles-operator](https://github.com/rgeraskin/psql-roles-operator): Kubernetes Operator that manages PostgreSQL roles and users *WIP* (Go)
 - [remove-empty-ns-operator](https://github.com/rgeraskin/remove-empty-ns-operator): Kubernetes Operator that deletes namespaces without resources (Python)
 - [a10-bgp-neighbor-manager](https://github.com/rgeraskin/a10-bgp-neighbor-manager): Kubernetes Custom Controller to manage BGP neighbors on an A10 Thunder load balancer (Go)
 - [nsrerolebindings-operator](https://github.com/rgeraskin/nsrerolebindings-operator): Kubernetes operator to create Role Bindings across namespaces by regexp (Python)
 - [dnat-dns](https://github.com/rgeraskin/dnat-dns): DNS proxy assigning fake "gray" IPs to domains with auto iptables DNAT for traffic redirection *WIP* (Go)
-- [dogoncall](https://github.com/rgeraskin/dogoncall): Retrieve on-call schedules from Datadog and send notifications to Slack (Go)
-- [argocdf](https://github.com/rgeraskin/argocdf): Tool to diff ArgoCD applications *WIP* (Go)
 - [vscode-mise](https://github.com/rgeraskin/vscode-mise): VSCode extension to run mise (JavaScript)
 - [dump psql roles grants](https://github.com/rgeraskin/dump_psql_roles_grants): Helper tool to dump Postgres Roles and Grants (Python)
 - [FSSH](https://github.com/rgeraskin/fssh): Parses ansible inventory and produces connection-ready ssh command on-the-fly (Python)
