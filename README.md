@@ -65,6 +65,7 @@ Check out other posts at https://blog.rgeraskin.dev
 </div>
 
 ### 🐈 Pet projects
+- [EmojiQ](https://github.com/rgeraskin/emojiq): A quick and elegant emoji picker desktop app for any text box (JavaScript/Rust)
 - [godiffyaml](https://github.com/rgeraskin/godiffyaml): Human-readable diffs for yamls with multiple documents (Go)
 - [kctouch](https://github.com/rgeraskin/kctouch): A command-line tool for managing macOS Keychain items with TouchID authentication (Go)
 - [awsssologin](https://github.com/rgeraskin/awsssologin): AWS SSO Login Headless Automation (Go)
