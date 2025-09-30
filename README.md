@@ -20,6 +20,7 @@
 
 ## ✏️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure testing in practice: Exploring Change Management Auto Testing Through Examples](https://blog.rgeraskin.dev/infra-tests)
 - [Introducing GoDiffYAML Tool: Simplifying Diffing for Multi-Document YAML Files 💪](https://blog.rgeraskin.dev/godiffyaml)
 - [AI with Kubernetes: Operations for Developers. Make k8s Beginner-Friendly with Natural Language 🤖](https://blog.rgeraskin.dev/ai-with-kubernetes)
 - [Automating Development Environment with Mise: Comprehensive Guide 💫](https://rgeraskin.hashnode.dev/dev-env-with-mise)
