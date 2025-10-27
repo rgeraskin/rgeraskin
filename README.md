@@ -79,6 +79,7 @@ Check out other posts at https://blog.rgeraskin.dev
 - [a10-bgp-neighbor-manager](https://github.com/rgeraskin/a10-bgp-neighbor-manager): Kubernetes Custom Controller to manage BGP neighbors on an A10 Thunder load balancer (Go)
 - [nsrerolebindings-operator](https://github.com/rgeraskin/nsrerolebindings-operator): Kubernetes operator to create Role Bindings across namespaces by regexp (Python)
 - [dnat-dns](https://github.com/rgeraskin/dnat-dns): DNS proxy assigning fake "gray" IPs to domains with auto iptables DNAT for traffic redirection *WIP* (Go)
+- [wifi-cli](https://github.com/rgeraskin/wifi-cli): A command-line tool for managing Wi-Fi on macOS (Swift)
 - [vscode-mise](https://github.com/rgeraskin/vscode-mise): VSCode extension to run mise (JavaScript)
 - [dump psql roles grants](https://github.com/rgeraskin/dump_psql_roles_grants): Helper tool to dump Postgres Roles and Grants (Python)
 - [FSSH](https://github.com/rgeraskin/fssh): Parses ansible inventory and produces connection-ready ssh command on-the-fly (Python)
