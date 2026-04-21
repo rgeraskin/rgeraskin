@@ -52,6 +52,7 @@ Check out other posts at https://blog.rgeraskin.dev
 ### 🐈 Pet projects
 - [aws-ldap-authenticator](https://github.com/rgeraskin/aws-ldap-authenticator): LDAP server that authenticates users with AWS tokens (Go)
 - [EmojiQ](https://github.com/rgeraskin/emojiq): A quick and elegant emoji picker desktop app for any text box (JavaScript/Rust)
+- [JoyTime](https://github.com/rgeraskin/joytime): Telegram bot that gamifies kids' chores with a digital token economy. Inspired by Skinner's behaviorism (Go)
 - [godiffyaml](https://github.com/rgeraskin/godiffyaml): Human-readable diffs for yamls with multiple documents (Go)
 - [kctouch](https://github.com/rgeraskin/kctouch): A command-line tool for managing macOS Keychain items with TouchID authentication (Go)
 - [awsssologin](https://github.com/rgeraskin/awsssologin): AWS SSO Login Headless Automation (Go)
